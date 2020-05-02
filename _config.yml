@@ -2,7 +2,7 @@
 title: Nicolas Deffieux
 email: nicolas@deffieux.eu
 description: Intro text here.
-baseurl: "/ndef # the subpath of your site, e.g. /blog
+baseurl: "/ndef" # the subpath of your site, e.g. /blog
 url: "https://jlberryhill.github.io" # the base hostname & protocol for your site
 author: Nicolas Deffieux
 street_address: 
